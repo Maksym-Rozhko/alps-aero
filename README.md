@@ -11,13 +11,13 @@
 <a href="https://ibb.co/hZQCvyD" target="_blank">
   Destop page speed
 </a>
-<img src="https://i.ibb.co/xXtrJW0/desktop.jpg" alt="pagespeed desktop" width="100%" />
+<img src="https://i.ibb.co/xXtrJW0/desktop.jpg" alt="pagespeed desktop" width="50%" />
 <br/>
 <br/>
 <a href="https://ibb.co/n1mG4Lh" target="_blank">
   Mobile page speed
 </a>
-<img src="https://i.ibb.co/WgPsj39/mobile.jpg" alt="pagespeed mobile" width="100%" />
+<img src="https://i.ibb.co/WgPsj39/mobile.jpg" alt="pagespeed mobile" width="50%" />
 <br/>
 
 ----
